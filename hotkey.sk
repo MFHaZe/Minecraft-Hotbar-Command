@@ -1,0 +1,2 @@
+on swap hand items:
+    make player execute command "sb"
