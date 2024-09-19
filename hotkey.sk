@@ -1,2 +1,13 @@
+#  __  __ _____ _   _       _____    
+# |  \/  |  ___| | | | __ _|__  /___ 
+# | |\/| | |_  | |_| |/ _` | / // _ \
+# | |  | |  _| |  _  | (_| |/ /|  __/
+# |_|  |_|_|   |_| |_|\__,_/____\___|
+                                                                  
+#    Author:         MFHaZe
+#    Creation Year:  2021
+#    GitHub:         https://github.com/MFHaZe/Minecraft-Hotbar-Command
+
+
 on swap hand items:
     make player execute command "sb"
